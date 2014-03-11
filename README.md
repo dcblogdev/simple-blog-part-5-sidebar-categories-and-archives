@@ -1,4 +1,4 @@
-simple-blog-part-5-sidebar-categories-and-archives
-==================================================
+Creating a blog from scratch with PHP - Part 5 Sidebar, Categories and Archives
+=============
 
-Create a blog from scratch with PHP
+These files acompany the tutorial: [Creating a blog from scratch with PHP - Part 5 Sidebar, Categories and Archives](daveismyname.com/creating-a-blog-from-scratch-with-php-part-5-sidebar-categories-and-archives-bp)
