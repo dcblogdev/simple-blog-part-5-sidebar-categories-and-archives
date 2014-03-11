@@ -1,5 +1,5 @@
 RewriteEngine On
-RewriteBase /simple-blog-part-5-sidebar-categories-and-archives/
+RewriteBase /simple-blog-part-6-pagination/
 
 RewriteRule ^c-(.*)$ catpost.php?id=$1 [L]
 RewriteRule ^a-(.*)-(.*)$ archives.php?month=$1&year=$2 [L]
